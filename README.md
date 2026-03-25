@@ -120,7 +120,7 @@ This project provides valuable insights into hotel customer behavior, preference
 
 ## 👤 Author
 
-**Piyush Soni**  
+**Sakshi Gupta**  
 📧 Email: sakshiguptaclg@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sakshi-gupta-3555a42ba/ )  
 🔗 [GitHub](https://github.com/SakshiGupta8170)
